@@ -362,7 +362,7 @@ textarea {
 	overflow-y: scroll;
 	width: 85%;
 	z-index: 10;
-	text-align: center;
+	text-align: left;
 	
 	position: absolute;
 	bottom: 0vh;
